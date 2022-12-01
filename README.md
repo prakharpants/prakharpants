@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prakhar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I like building stuff</h3>
 <img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/AlertRadiantHoiho-size_restricted.gif">
 
 <p align="left"> <a href="https://twitter.com/prakharpants" target="blank"><img src="https://img.shields.io/twitter/follow/prakharpants?logo=twitter&style=for-the-badge" alt="prakharpants" /></a> </p>
