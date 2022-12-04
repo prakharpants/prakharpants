@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Prakhar</h1>
+<h1 align="center">Helloooo, I'm Prakhar</h1>
 <h3 align="center">I like building stuff</h3>
 <img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/AlertRadiantHoiho-size_restricted.gif">
 
