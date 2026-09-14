@@ -1,6 +1,6 @@
 # Prakhar Pant
 
-Co-founder and engineer at [LegalKonnect](https://legalkonnect.in), a legal services platform for India. I build it and I run it.
+Co-founder and sole engineer at [LegalKonnect](https://legalkonnect.in), a legal services platform for India. I build it and I run it.
 
 ## LegalKonnect
 
