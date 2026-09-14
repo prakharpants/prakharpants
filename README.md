@@ -1,29 +1,31 @@
-<h1 align="center">Helloooo, I'm Prakhar</h1>
-<h3 align="center">I like building stuff</h3>
-<img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/AlertRadiantHoiho-size_restricted.gif">
+# Prakhar Pant
 
-<p align="left"> <a href="https://twitter.com/prakharpants" target="blank"><img src="https://img.shields.io/twitter/follow/prakharpants?logo=twitter&style=for-the-badge" alt="prakharpants" /></a> </p>
+Founder and sole engineer of **[LegalKonnect](https://legalkonnect.in)** — a legal services platform for India. I design it, build it, ship it, and keep it running in production.
 
-- 🔭 I’m currently working on **frontend projects**
+## What I'm building
 
-- 🌱 I’m currently learning **devops**
+### LegalKonnect · [legalkonnect.in](https://legalkonnect.in)
 
-- 👯 I’m looking to collaborate on **anything I can possibly help with or can learn from**
+Productised legal services: fixed-price consultations, document drafting, and end-to-end case management for clients and advocates.
 
-- 🤝 I’m looking for help with **some guidance maybe**
+- **Next.js 16 (App Router) · React 19 · TypeScript · Tailwind v4 · Supabase · Vercel**
+- Four role-scoped surfaces on a single auth model — client portal, advocate portal, internal ops workspace, admin console — backed by Postgres row-level security
+- Razorpay integration with server-side signature verification, webhook reconciliation, and a payment idempotency table so a retried request can't double-charge
+- OTP auth, signed-URL document access, coupon engine, invoicing, revenue and funnel dashboards
+- ~37k lines of TypeScript across 55 routes, written and maintained solo
 
-- 💬 Ask me about **c++,frontend stuff and maybe some cool facts about football :)**
+### Agentic content pipeline
 
-- 📫 How to reach me **prakhar1pant@gmail.com**
+A daily publishing system that picks a topic, researches it, drafts, verifies claims against Indian statute, reviews, revises, and ships through the CMS. A multi-stage prompt chain with separate verification and humanisation passes — not one-shot generation.
 
-- ⚡ Fun fact **Winnie the pooh and alexander the great have the same thing in common.Guess what?**
+### Agent skills
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/prakharpants" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prakharpants" height="30" width="40" /></a>
-</p>
+Packaged instruction sets that extend AI coding agents — React and Next.js performance rules, web interface and accessibility guidelines, component composition patterns — authored in the [Agent Skills](https://agentskills.io/) format.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+## Stack
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prakharpants&show_icons=true&locale=en" alt="prakharpants" /></p>
+`TypeScript` · `React` · `Next.js` · `Node` · `Postgres / Supabase` · `Tailwind` · `Vercel`
+
+## Reach me
+
+[legalkonnect.in](https://legalkonnect.in) · prakhar1pant@gmail.com
