@@ -1,31 +1,31 @@
 # Prakhar Pant
 
-Founder and sole engineer of **[LegalKonnect](https://legalkonnect.in)** — a legal services platform for India. I design it, build it, ship it, and keep it running in production.
+Co-founder and engineer at [LegalKonnect](https://legalkonnect.in), a legal services platform for India. I build it and I run it.
 
-## What I'm building
+## LegalKonnect
 
-### LegalKonnect · [legalkonnect.in](https://legalkonnect.in)
+Legal help at a fixed price. Consultations, document drafting, and case management for clients and for the advocates working with them.
 
-Productised legal services: fixed-price consultations, document drafting, and end-to-end case management for clients and advocates.
+Next.js 16 (App Router), React 19, TypeScript, Tailwind v4, Supabase, Vercel.
 
-- **Next.js 16 (App Router) · React 19 · TypeScript · Tailwind v4 · Supabase · Vercel**
-- Four role-scoped surfaces on a single auth model — client portal, advocate portal, internal ops workspace, admin console — backed by Postgres row-level security
-- Razorpay integration with server-side signature verification, webhook reconciliation, and a payment idempotency table so a retried request can't double-charge
-- OTP auth, signed-URL document access, coupon engine, invoicing, revenue and funnel dashboards
-- ~37k lines of TypeScript across 55 routes, written and maintained solo
+A few parts I've put real time into:
 
-### Agentic content pipeline
+- Four portals on one auth model: clients, advocates, internal ops, admin. Postgres row level security is what keeps them apart.
+- Razorpay payments, with server side signature checks, webhook reconciliation, and an idempotency table so a retried request can never charge someone twice.
+- OTP login, signed URL document access, coupons, invoicing, and the revenue dashboards we actually use day to day.
 
-A daily publishing system that picks a topic, researches it, drafts, verifies claims against Indian statute, reviews, revises, and ships through the CMS. A multi-stage prompt chain with separate verification and humanisation passes — not one-shot generation.
+## Agentic content pipeline
 
-### Agent skills
+A system that publishes a legal explainer every day. It picks a topic, researches it, drafts, checks the claims against Indian law, reviews, revises, then publishes through the CMS. Every one of those is a separate pass with its own prompt, which turned out to be the only way to stop it sounding like a robot.
 
-Packaged instruction sets that extend AI coding agents — React and Next.js performance rules, web interface and accessibility guidelines, component composition patterns — authored in the [Agent Skills](https://agentskills.io/) format.
+## Agent skills
+
+Instruction sets that make AI coding agents better at specific jobs: React and Next.js performance, web interface and accessibility rules, component composition. Written in the [Agent Skills](https://agentskills.io/) format.
 
 ## Stack
 
-`TypeScript` · `React` · `Next.js` · `Node` · `Postgres / Supabase` · `Tailwind` · `Vercel`
+TypeScript, React, Next.js, Node, Postgres and Supabase, Tailwind, Vercel
 
-## Reach me
+## Say hi
 
 [legalkonnect.in](https://legalkonnect.in) · prakhar1pant@gmail.com
